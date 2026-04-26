@@ -1,6 +1,6 @@
 # CorridaAPI 
 
-Uma Web API robusta desenvolvida em ASP.NET 9 para gestão de corridas, motoristas e passageiros. O projeto foi estruturado seguindo as melhores práticas de Engenharia de Software, utilizando o Repository Pattern e Injeção de Dependência.
+Uma Web API robusta desenvolvida em ASP.NET 9 para gestão de corridas, motoristas e passageiros.
 
 # Descrição do Sistema
 O sistema permite o registo e a gestão de corridas urbanas. A API calcula automaticamente o valor final da tarifa baseando-se na distância percorrida e gere o estado da corrida (Pendente, Iniciada ou Finalizada). Os dados são persistidos numa base de dados SQLite, garantindo leveza e portabilidade.
