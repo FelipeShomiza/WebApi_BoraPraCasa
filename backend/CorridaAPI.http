@@ -1,0 +1,6 @@
+@CorridaAPI_HostAddress = http://localhost:5095
+
+GET {{CorridaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
