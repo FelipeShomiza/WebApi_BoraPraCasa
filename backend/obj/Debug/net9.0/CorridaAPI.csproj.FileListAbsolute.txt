@@ -152,3 +152,12 @@ D:\projetos\CorridaAPI\backend\obj\Debug\net9.0\refint\CorridaAPI.dll
 D:\projetos\CorridaAPI\backend\obj\Debug\net9.0\CorridaAPI.pdb
 D:\projetos\CorridaAPI\backend\obj\Debug\net9.0\CorridaAPI.genruntimeconfig.cache
 D:\projetos\CorridaAPI\backend\obj\Debug\net9.0\ref\CorridaAPI.dll
+D:\projetos\CorridaAPI\backend\obj\Debug\net9.0\CorridaAPI.sourcelink.json
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\projetos\CorridaAPI\backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

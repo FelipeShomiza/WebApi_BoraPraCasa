@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CorridaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137a831617c90fb51312e310379c65ce11da9190")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorridaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CorridaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
